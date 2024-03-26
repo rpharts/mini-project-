@@ -1,0 +1,21 @@
+body {
+  background-color: #BDBDBD;
+}
+
+#P1 {
+  color: #492609;
+  border: #1E2B52;
+  border-style: dashed;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+  border-style: solid;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+head {
+  text-align: center;
+  font-style: inherit;
+  }
