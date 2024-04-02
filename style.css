@@ -19,3 +19,15 @@ head {
   text-align: center;
   font-style: inherit;
   }
+
+#P2 {
+  display: grid;
+  grid-template-columns: repeat(3);
+  grid-gap: 2rem;
+}
+
+@media screen and (min-width:480px) {
+  div {
+    display: flexbox; justify-self: auto;
+  }
+}
